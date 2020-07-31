@@ -4,7 +4,7 @@
 Model performed with __fastai__ library (v1).
 
 
-Model trained using custom dataset created from collecting google images. The dataset contains 200 pictures for each of the 3 architecture styles:
+Model trained using custom dataset created collecting images from Google. The dataset contains 200 pictures for each of the 3 architecture styles:
 - Baroque
 - Gothic
 - Renaissance
