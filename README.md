@@ -11,7 +11,7 @@ Model trained using custom dataset created collecting images from Google. The da
 
 ![example](arch_styles_sh1.png)
 
-- Results: With resnet34 as the architecture chosen, our model got an accuracy of 80.81%.
+- Results: With resnet34 as the architecture chosen, our model got an accuracy of __80.81%.__
 
 ![result](arch_styles_sh2.png)
 
